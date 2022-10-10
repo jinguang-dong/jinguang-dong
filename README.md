@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jinguang-dong
+- 👀 I’m interested in linux, aosp software development
+- 🌱 I’m currently learning rust and typescript
+- 📫 You can reach me by github message, email: dongjinguang0228@gmail.com
